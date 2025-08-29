@@ -53,5 +53,11 @@ npx cypress open
 - End-to-End Testing
 - JavaScript
 - Agile & ISTQB Testing Practices
+  
+## Contact
 
+For any questions or support, please contact:
+
+**Jori Alshoshan**  
+Email: jori.alshoshan@gmail.com
   
