@@ -1,0 +1,59 @@
+DevTools listening on ws://127.0.0.1:45379/devtools/browser/396fdf57-67f6-4409-80d2-a6d6beab2065
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        15.0.0                                                                         │
+  │ Browser:        Chrome 139                                                                     │
+  │ Node Version:   v20.19.4 (/usr/bin/node)                                                       │
+  │ Specs:          1 found (RegressionTest.cy.js)                                                 │
+  │ Searched:       cypress/e2e/RegressionTest.cy.js                                               │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  RegressionTest.cy.js                                                            (1 of 1)
+
+
+  ✓ OrangeHRMLogin (23160ms)
+  ✓ OrangeHRMAddEmployee (78699ms)
+  ✓ OrangeHRMAddJobTitle (60941ms)
+  ✓ OrangeHRMEmployeeInfo (463557ms)
+  ✓ OrangeHRMLogout (8961ms)
+
+  5 passing (11m)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        5                                                                                │
+  │ Passing:      5                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        true                                                                             │
+  │ Duration:     10 minutes, 39 seconds                                                           │
+  │ Spec Ran:     RegressionTest.cy.js                                                             │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+  (Video)
+
+  -  Video output: /home/Jori/Desktop/Cypress/cypress/videos/RegressionTest.cy.js.mp4
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✔  RegressionTest.cy.js                     10:39        5        5        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✔  All specs passed!                        10:39        5        5        -        -        -  
